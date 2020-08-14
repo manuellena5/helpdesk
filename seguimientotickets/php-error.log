@@ -1,0 +1,99 @@
+[26-Mar-2019 12:05:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: men in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 44
+[26-Mar-2019 12:05:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:05:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[26-Mar-2019 12:05:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: donde in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 45
+[26-Mar-2019 12:05:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:05:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[28-Mar-2019 10:56:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: idticket in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 7
+[28-Mar-2019 10:56:44 America/Argentina/Buenos_Aires] PHP Stack trace:
+[28-Mar-2019 10:56:44 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[28-Mar-2019 10:57:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: idticket in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 7
+[28-Mar-2019 10:57:00 America/Argentina/Buenos_Aires] PHP Stack trace:
+[28-Mar-2019 10:57:00 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[28-Mar-2019 10:57:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: idticket in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 7
+[28-Mar-2019 10:57:00 America/Argentina/Buenos_Aires] PHP Stack trace:
+[28-Mar-2019 10:57:00 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[03-Apr-2019 12:02:50 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[03-Apr-2019 12:02:50 America/Argentina/Buenos_Aires] PHP Stack trace:
+[03-Apr-2019 12:02:50 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[05-Apr-2019 10:24:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: men in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 46
+[05-Apr-2019 10:24:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 10:24:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 10:24:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: donde in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 47
+[05-Apr-2019 10:24:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 10:24:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 10:24:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: men in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 46
+[05-Apr-2019 10:24:43 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 10:24:43 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 10:24:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: donde in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 47
+[05-Apr-2019 10:24:43 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 10:24:43 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 12:17:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[05-Apr-2019 12:17:02 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 12:17:02 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[05-Apr-2019 12:17:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[05-Apr-2019 12:17:11 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 12:17:11 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[05-Apr-2019 12:34:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: men in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 46
+[05-Apr-2019 12:34:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 12:34:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 12:34:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: donde in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 47
+[05-Apr-2019 12:34:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 12:34:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 12:34:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: men in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 46
+[05-Apr-2019 12:34:25 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 12:34:25 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 12:34:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: donde in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 47
+[05-Apr-2019 12:34:25 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 12:34:25 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 12:34:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: men in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 46
+[05-Apr-2019 12:34:41 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 12:34:41 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[05-Apr-2019 12:34:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: donde in C:\wamp\www\romper\seguimientotickets\seguimiento.php on line 47
+[05-Apr-2019 12:34:41 America/Argentina/Buenos_Aires] PHP Stack trace:
+[05-Apr-2019 12:34:41 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\seguimiento.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[11-Apr-2019 12:22:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0
+[12-Apr-2019 12:10:20 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\seguimientotickets\_verhistorial.php on line 53
+[12-Apr-2019 12:10:20 America/Argentina/Buenos_Aires] PHP Stack trace:
+[12-Apr-2019 12:10:20 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\seguimientotickets\_verhistorial.php:0

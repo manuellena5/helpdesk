@@ -1,0 +1,8 @@
+[16-Apr-2019 09:57:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nro_ticket in C:\wamp\www\romper\asd.php on line 388
+[16-Apr-2019 09:57:02 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 09:57:02 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\asd.php:0
+[16-Apr-2019 09:57:02 America/Argentina/Buenos_Aires] Error al insertar en query7 -fil01adj- -READEMAIL- 1366 Incorrect integer value: '' for column 'nro_ticket' at row 1
+[16-Apr-2019 10:19:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nro_ticket in C:\wamp\www\romper\asd.php on line 388
+[16-Apr-2019 10:19:18 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 10:19:18 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\asd.php:0
+[16-Apr-2019 10:19:19 America/Argentina/Buenos_Aires] Error al insertar en query7 -fil01adj- -READEMAIL- 1366 Incorrect integer value: '' for column 'nro_ticket' at row 1

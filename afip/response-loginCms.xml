@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><soapenv:Envelope xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><soapenv:Body><loginCmsResponse xmlns="http://wsaa.view.sua.dvadac.desein.afip.gov"><loginCmsReturn>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;yes&quot;?&gt;
+&lt;loginTicketResponse version=&quot;1&quot;&gt;
+    &lt;header&gt;
+        &lt;source&gt;CN=wsaa, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239&lt;/source&gt;
+        &lt;destination&gt;SERIALNUMBER=CUIT 30684707910, CN=ciecuit&lt;/destination&gt;
+        &lt;uniqueId&gt;3190479779&lt;/uniqueId&gt;
+        &lt;generationTime&gt;2019-04-05T11:02:01.128-03:00&lt;/generationTime&gt;
+        &lt;expirationTime&gt;2019-04-05T23:02:01.128-03:00&lt;/expirationTime&gt;
+    &lt;/header&gt;
+    &lt;credentials&gt;
+        &lt;token&gt;PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhLCBPPUFGSVAsIEM9QVIsIFNFUklBTE5VTUJFUj1DVUlUIDMzNjkzNDUwMjM5IiB1bmlxdWVfaWQ9IjEyMDE2NzQ1OTkiIGdlbl90aW1lPSIxNTU0NDcyODYxIiBleHBfdGltZT0iMTU1NDUxNjEyMSIvPgogICAgPG9wZXJhdGlvbiB0eXBlPSJsb2dpbiIgdmFsdWU9ImdyYW50ZWQiPgogICAgICAgIDxsb2dpbiBlbnRpdHk9IjMzNjkzNDUwMjM5IiBzZXJ2aWNlPSJ3c19zcl9wYWRyb25fYTEzIiB1aWQ9IlNFUklBTE5VTUJFUj1DVUlUIDMwNjg0NzA3OTEwLCBDTj1jaWVjdWl0IiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMzA2ODQ3MDc5MTAiIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K&lt;/token&gt;
+        &lt;sign&gt;MvbhF1y/MN4+0BVaFFKAV5up25EskU4m7y8JfTJUn1GMront1+tit+mqq+I4UO2pd04BpFuk63MxnUYAc+KIZ6rs9EW4IYZ32CSVENVu4+h7iBMlkUcL4XxjISnPbYmu1mRIejlZw4Qq2gYTdG4K+GfMwVGJ++P98p/519SFYZc=&lt;/sign&gt;
+    &lt;/credentials&gt;
+&lt;/loginTicketResponse&gt;
+</loginCmsReturn></loginCmsResponse></soapenv:Body></soapenv:Envelope>

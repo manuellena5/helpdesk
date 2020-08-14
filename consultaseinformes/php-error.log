@@ -1,0 +1,953 @@
+[20-Feb-2019 10:02:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query(): Empty query in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 11
+[20-Feb-2019 10:02:57 America/Argentina/Buenos_Aires] PHP Stack trace:
+[20-Feb-2019 10:02:57 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[20-Feb-2019 10:02:57 America/Argentina/Buenos_Aires] PHP   2. mysqli_query() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:11
+[20-Feb-2019 13:06:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[20-Feb-2019 13:06:57 America/Argentina/Buenos_Aires] PHP Stack trace:
+[20-Feb-2019 13:06:57 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[20-Feb-2019 13:06:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[20-Feb-2019 13:06:57 America/Argentina/Buenos_Aires] PHP Stack trace:
+[20-Feb-2019 13:06:57 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:15:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:15:58 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:15:58 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:15:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:15:58 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:15:58 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:16:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:16:02 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:16:02 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:16:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:16:14 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:16:14 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:16:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:16:14 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:16:14 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:18:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:18:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:18:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:18:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:18:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:18:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:18:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:18:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:18:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:18:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:18:25 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:18:25 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:18:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:18:25 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:18:25 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 10:47:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: estado in C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php on line 41
+[21-Feb-2019 10:47:54 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 10:47:54 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listardocumentacion.php:0
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: dusuario in C:\wamp\www\romper\consultaseinformes\_editarpresencial.php on line 76
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_editarpresencial.php:0
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: drol in C:\wamp\www\romper\consultaseinformes\_editarpresencial.php on line 76
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_editarpresencial.php:0
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: observacion in C:\wamp\www\romper\consultaseinformes\_editarpresencial.php on line 76
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_editarpresencial.php:0
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: id in C:\wamp\www\romper\consultaseinformes\_editarpresencial.php on line 77
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Feb-2019 11:08:39 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_editarpresencial.php:0
+[20-Mar-2019 13:37:56 America/Argentina/Buenos_Aires] Error al insertar en fil03mail. Linea 221366 Incorrect integer value: '' for column 'tipo_docum' at row 1
+[20-Mar-2019 13:40:44 America/Argentina/Buenos_Aires] Error al insertar en fil03mail. Linea 221366 Incorrect integer value: '' for column 'tipo_docum' at row 1
+[21-Mar-2019 10:10:37 America/Argentina/Buenos_Aires] Error al insertar en fil03mail. Linea 221366 Incorrect integer value: '' for column 'tipo_docum' at row 1
+[21-Mar-2019 10:10:55 America/Argentina/Buenos_Aires] Error al insertar en fil03mail. Linea 221366 Incorrect integer value: '' for column 'tipo_docum' at row 1
+[21-Mar-2019 10:16:27 America/Argentina/Buenos_Aires] La consulta no trajo resultados fil03mail 0 
+[21-Mar-2019 10:17:47 America/Argentina/Buenos_Aires] La consulta no trajo resultados fil03mail 0 
+[21-Mar-2019 10:18:25 America/Argentina/Buenos_Aires] La consulta no trajo resultados fil03mail 0 
+[21-Mar-2019 10:19:22 America/Argentina/Buenos_Aires] La consulta no trajo resultados fil03mail 0 
+[21-Mar-2019 10:20:18 America/Argentina/Buenos_Aires] La consulta no trajo resultados fil03mail 0 
+[21-Mar-2019 10:21:28 America/Argentina/Buenos_Aires] 16
+[21-Mar-2019 10:21:28 America/Argentina/Buenos_Aires] 0
+[21-Mar-2019 10:21:28 America/Argentina/Buenos_Aires] I
+[21-Mar-2019 10:21:28 America/Argentina/Buenos_Aires] 1
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: url in C:\wamp\www\romper\consultaseinformes\observarticket.php on line 7
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\observarticket.php:0
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: url in C:\wamp\www\romper\consultaseinformes\observarticket.php on line 10
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\observarticket.php:0
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: dire2 in C:\wamp\www\romper\consultaseinformes\observarticket.php on line 58
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[21-Mar-2019 11:03:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\observarticket.php:0
+[26-Mar-2019 12:54:08 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 1 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 2 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 3 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 3 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 4 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 4 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 5 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 5 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 6 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 7 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 7 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 8 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 8 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 9 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 9 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 67
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:54:09 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 1 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 2 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 3 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 3 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 4 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 4 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 5 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 5 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 6 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 7 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 7 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 8 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 8 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 9 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Use of undefined constant arreglo - assumed 'arreglo' (this will throw an Error in a future version of PHP) in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'dd' in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Uninitialized string offset: 9 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:57:56 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 3 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 4 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 5 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 7 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 8 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 9 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 12:58:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 3 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 4 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 5 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 7 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 8 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 9 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 66
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[26-Mar-2019 13:00:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:04:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:04:19 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:04:19 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:04:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:04:19 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:04:19 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:07:34 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:07:59 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:24:46 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 1 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 2 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 3 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 3 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 4 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 4 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 5 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 5 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 6 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 7 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 7 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 8 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 8 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 9 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 9 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 10 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 10 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:25:40 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:15 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:26:57 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:30:22 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:31:46 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:00 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:23 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:38 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:34:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:21 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:35:51 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined offset: 12 in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 64
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: nro_mesaent in C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php on line 65
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP Stack trace:
+[27-Mar-2019 10:36:32 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\consultaseinformes\_listarpresenciales.php:0

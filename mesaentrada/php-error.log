@@ -1,0 +1,127 @@
+[16-Apr-2019 13:02:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:02:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:02:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:02:29 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:40
+[16-Apr-2019 13:02:29 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:02:29 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:02:29 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:02:29 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:89
+[16-Apr-2019 13:02:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:02:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:02:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:02:53 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:40
+[16-Apr-2019 13:02:53 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:02:53 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:02:53 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:02:53 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:89
+[16-Apr-2019 13:03:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:03:17 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:03:17 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:03:17 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:6
+[16-Apr-2019 13:03:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:03:17 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:03:17 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:03:17 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:90
+[16-Apr-2019 13:03:37 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:03:37 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:03:37 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:03:37 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:90
+[16-Apr-2019 13:03:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:03:47 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:03:47 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:03:47 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:03:47 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:03:47 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:03:47 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:03:47 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:04:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:04:22 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:04:22 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:04:22 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:04:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:04:22 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:04:22 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:04:22 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:05:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:05:39 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:05:39 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:05:39 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:05:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:05:39 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:05:39 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:05:39 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP Notice:  Array to string conversion in C:\wamp\www\romper\mesaentrada\ingresoarchivo.php on line 43
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1164
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:06:08 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:06:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1165
+[16-Apr-2019 13:06:44 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:06:44 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:06:44 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:06:44 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arreglo in C:\wamp\www\romper\funciones.php on line 1165
+[16-Apr-2019 13:06:44 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:06:44 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:06:44 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:08:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1165
+[16-Apr-2019 13:08:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:08:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:08:13 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:08:13 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1165
+[16-Apr-2019 13:08:13 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:08:13 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:08:13 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1165
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1166
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1165
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1166
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:09:34 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1166
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1167
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1166
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1167
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:12:23 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:12:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1167
+[16-Apr-2019 13:12:49 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:12:49 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:12:49 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:12:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1167
+[16-Apr-2019 13:12:49 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:12:49 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:12:49 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91
+[16-Apr-2019 13:12:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1167
+[16-Apr-2019 13:12:58 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:12:58 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:12:58 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:43
+[16-Apr-2019 13:12:58 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: arrelo in C:\wamp\www\romper\funciones.php on line 1167
+[16-Apr-2019 13:12:58 America/Argentina/Buenos_Aires] PHP Stack trace:
+[16-Apr-2019 13:12:58 America/Argentina/Buenos_Aires] PHP   1. {main}() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:0
+[16-Apr-2019 13:12:58 America/Argentina/Buenos_Aires] PHP   2. cargararr() C:\wamp\www\romper\mesaentrada\ingresoarchivo.php:91

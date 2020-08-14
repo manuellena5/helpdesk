@@ -1,0 +1,32 @@
+[20-Mar-2019 09:48:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function myssqli_fech_array() in C:\wamp\www\romper\parametrizacion\ABM_Nro_Mesa_Entrada.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\romper\parametrizacion\ABM_Nro_Mesa_Entrada.php on line 7
+[20-Mar-2019 09:48:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_fech_array() in C:\wamp\www\romper\parametrizacion\ABM_Nro_Mesa_Entrada.php:7
+Stack trace:
+#0 {main}
+  thrown in C:\wamp\www\romper\parametrizacion\ABM_Nro_Mesa_Entrada.php on line 7
+[03-Apr-2019 11:25:13 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _validacion_alta_rol_etiqueta(), 0 passed in C:\wamp\www\romper\funciones.php on line 846 and exactly 1 expected in C:\wamp\www\romper\funciones.php:870
+Stack trace:
+#0 C:\wamp\www\romper\funciones.php(846): _validacion_alta_rol_etiqueta()
+#1 C:\wamp\www\romper\parametrizacion\_alta.php(9): _validarform_alta(Object(mysqli))
+#2 {main}
+  thrown in C:\wamp\www\romper\funciones.php on line 870
+[03-Apr-2019 11:26:29 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _validacion_alta_rol_etiqueta(), 0 passed in C:\wamp\www\romper\funciones.php on line 846 and exactly 1 expected in C:\wamp\www\romper\funciones.php:870
+Stack trace:
+#0 C:\wamp\www\romper\funciones.php(846): _validacion_alta_rol_etiqueta()
+#1 C:\wamp\www\romper\parametrizacion\_alta.php(9): _validarform_alta(Object(mysqli))
+#2 {main}
+  thrown in C:\wamp\www\romper\funciones.php on line 870
+[03-Apr-2019 11:37:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _validacion_alta_rol_etiqueta(), 0 passed in C:\wamp\www\romper\funciones.php on line 846 and exactly 1 expected in C:\wamp\www\romper\funciones.php:870
+Stack trace:
+#0 C:\wamp\www\romper\funciones.php(846): _validacion_alta_rol_etiqueta()
+#1 C:\wamp\www\romper\parametrizacion\_alta.php(9): _validarform_alta(Object(mysqli))
+#2 {main}
+  thrown in C:\wamp\www\romper\funciones.php on line 870
+[03-Apr-2019 11:38:30 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function _validacion_alta_rol_etiqueta(), 0 passed in C:\wamp\www\romper\funciones.php on line 846 and exactly 1 expected in C:\wamp\www\romper\funciones.php:870
+Stack trace:
+#0 C:\wamp\www\romper\funciones.php(846): _validacion_alta_rol_etiqueta()
+#1 C:\wamp\www\romper\parametrizacion\_alta.php(9): _validarform_alta(Object(mysqli))
+#2 {main}
+  thrown in C:\wamp\www\romper\funciones.php on line 870
